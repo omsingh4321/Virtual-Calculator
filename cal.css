@@ -1,0 +1,111 @@
+.main{
+
+    border: 2px solid black;
+    width:443px;
+    background-color: black;
+    border-radius: 10px;
+    position: absolute;
+    left: 38%;
+    top: 6%;
+}
+.button{
+    border: 2px solid black;
+    width: 40px;
+    padding: 25px;
+    text-align: center;
+    margin: 5px;
+    background-color: rgb(249, 247, 247);
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 30px;
+    
+}
+.clear{
+    border: 2px solid black;
+    width: 50px;
+    padding: 22px 22px;
+    text-align: center;
+    margin: 5px;
+    background-color: rgb(249, 247, 247);
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 30px;
+}
+.clear:hover{
+    background-color: black;
+    border: 2px solid white;
+    color: white;
+}
+.screen{
+    border: 2px solid rgb(242, 238, 238);
+    width: 400px;
+    height: 80px;
+    padding:10px;
+    margin: 10px;
+    color: rgb(13, 0, 0);
+    background-color: aliceblue;
+
+    font-size: 70px;
+    
+}
+.keypad{
+    border: 2px solid rgb(244, 241, 241);
+    margin: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 420px;
+    background-color: black;
+}
+.button:hover{
+ background-color: black;
+ border: 2px solid white;
+ color: white;
+}
+.equal{
+    border: 2px solid black;
+    width: 143px;
+    padding: 25px;
+    text-align: center;
+    margin: 5px;
+    background-color: rgb(249, 247, 247);
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 30px;
+}
+.equal:hover{
+    background-color: black;
+ border: 2px solid white;
+ color: white;
+}
+.remov{
+    border: 2px solid black;
+    width: 141px;
+    padding: 25px;
+    text-align: center;
+    margin: 5px;
+    background-color: rgb(249, 247, 247);
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 30px;
+}
+.remov:hover{
+    background-color: black;
+ border: 2px solid white;
+ color: white;
+}
+body{
+    background-color: antiquewhite;
+}
+.me{
+    
+    width: 150px;
+    height: 30vh;
+    font-size: 60px;
+    font-style: oblique;
+    font-weight: bold;
+    color: brown;
+    position: absolute;
+    top:29%;
+    left:20%;
+    
+}
